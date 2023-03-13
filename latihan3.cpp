@@ -26,5 +26,5 @@ int main (){
     cout << "status kelulusan = " << status(rerata(niLM,nilB));
     cout << "\nstatus kelulusan ke 2 = " << status(rerata(niLM,nilB));
     return 0;
-
+#
 }
